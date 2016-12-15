@@ -93,3 +93,24 @@ def character_frequency(words):
     till ett värde av antalet gånger bokstaven uppkommer i stängen.
     """
     pass
+
+
+# --- Nya övningar ------------------------------------------------------------
+
+def generate_name():
+    """Generera slupvisa personnamn.
+
+    Returnera en sträng med ett slumpvis genererat personnamn. Använd `random`-
+    modulens `choice`-funktion.
+    """
+    pass
+
+
+def generete_weapon_name():
+    """Generera slumpvisa namn till vapen i ett RPG.
+
+    Generera namn på formen <adjektiv> <substantiv> of <attribut>.
+
+    Använd `random`-modulens `choice`-funktion.
+    """
+    pass
